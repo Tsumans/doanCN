@@ -12,26 +12,26 @@
                       <div class="col1 me-one">
                         <h4>Hãng Sản xuất</h4>
                         <ul>
-                          <li><a href="products.php">Dell</a></li>
-                          <li><a href="products.php">MSI</a></li>
-                          <li><a href="products.php">Acer</a></li>
-                          <li><a href="products.php">HP</a></li>
-                          <li><a href="products.php">Razer</a></li>
-                          <li><a href="products.php">Mac</a></li>
-                          <li><a href="products.php">Huawei</a></li>
-                          <li><a href="products.php">Dell</a></li>
-                          <li><a href="products.php">ASUS</a></li>
+                          <li><a href="products-acer.php">Dell</a></li>
+                          <li><a href="products-acer.php">MSI</a></li>
+                          <li><a href="products-acer.php">Acer</a></li>
+                          <li><a href="products-acer.php">HP</a></li>
+                          <li><a href="products-acer.php">Razer</a></li>
+                          <li><a href="products-acer.php">Mac</a></li>
+                          <li><a href="products-acer.php">Huawei</a></li>
+                          <li><a href="products-acer.php">Dell</a></li>
+                          <li><a href="products-acer.php">ASUS</a></li>
                         </ul>
                       </div>
                       <div class="col1 me-one">
                         <h4>Chọn theo nhu cầu </h4>
                         <ul>
-                          <li><a href="products.php">Văn phòng</a></li>
-                          <li><a href="products.php">Gaming</a></li>
-                          <li><a href="products.php">Mỏng nhẹ</a></li>
-                          <li><a href="products.php">Đồ họa - Kỹ thuật</a></li>
-                          <li><a href="products.php">Sinh Viên</a></li>
-                          <li><a href="products.php">Cảm ứng</a></li>
+                          <li><a href="products-acer.php">Văn phòng</a></li>
+                          <li><a href="products-acer.php">Gaming</a></li>
+                          <li><a href="products-acer.php">Mỏng nhẹ</a></li>
+                          <li><a href="products-acer.php">Đồ họa - Kỹ thuật</a></li>
+                          <li><a href="products-acer.php">Sinh Viên</a></li>
+                          <li><a href="products-acer.php">Cảm ứng</a></li>
                         </ul>
                       </div>
                     </div>
