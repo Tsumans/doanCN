@@ -12,15 +12,12 @@
                       <div class="col1 me-one">
                         <h4>Hãng Sản xuất</h4>
                         <ul>
-                          <li><a href="products-acer.php">Dell</a></li>
-                          <li><a href="products-acer.php">MSI</a></li>
+                          <li><a href="products-asus.php">Asus</a></li>
                           <li><a href="products-acer.php">Acer</a></li>
-                          <li><a href="products-acer.php">HP</a></li>
-                          <li><a href="products-acer.php">Razer</a></li>
-                          <li><a href="products-acer.php">Mac</a></li>
-                          <li><a href="products-acer.php">Huawei</a></li>
-                          <li><a href="products-acer.php">Dell</a></li>
-                          <li><a href="products-acer.php">ASUS</a></li>
+                          <li><a href="products-dell.php">Dell</a></li>
+                          <li><a href="products-hp.php">HP</a></li>
+                          <li><a href="products-msi.php">MSI</a></li>
+                          <li><a href="products-mac.php">Mac</a></li>
                         </ul>
                       </div>
                       <div class="col1 me-one">
@@ -28,10 +25,6 @@
                         <ul>
                           <li><a href="products-acer.php">Văn phòng</a></li>
                           <li><a href="products-acer.php">Gaming</a></li>
-                          <li><a href="products-acer.php">Mỏng nhẹ</a></li>
-                          <li><a href="products-acer.php">Đồ họa - Kỹ thuật</a></li>
-                          <li><a href="products-acer.php">Sinh Viên</a></li>
-                          <li><a href="products-acer.php">Cảm ứng</a></li>
                         </ul>
                       </div>
                     </div>
