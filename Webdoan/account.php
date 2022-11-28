@@ -33,16 +33,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="account-top heading">
           <h2>Tài khoản</h2>
         </div>
+        <form action="login.php" method="post">
         <div class="account-main">
           <div class="col-md-6 account-left">
             <h3>Đăng nhập</h3>
-            <div class="account-bottom">
-              <input placeholder="Email" type="text" tabindex="3" required />
+            <div class="account-bottom" >
+              <input placeholder="Email" type="text" tabindex="3" required="" />
               <input
                 placeholder="Password"
                 type="password"
                 tabindex="4"
-                required
+                required= ""
               />
               <div class="address">
                 <a class="forgot" href="#">Quên mật khẩu ?</a>
@@ -61,6 +62,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           </div>
           <div class="clearfix"></div>
         </div>
+        </form>
       </div>
     </div>
     <!--information-->

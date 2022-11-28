@@ -153,6 +153,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
       </div>
     </div>
     <!--product-end-->
+    
     <!--information-->
     <?php include './model/infomation.php' ?>
     

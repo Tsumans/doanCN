@@ -110,15 +110,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-1.png"
-                    alt=""
+                    src="images/Acer/Laptop Acer Gaming Nitro 5 Eagle AN515-57-71VV NH.QENSV.005.jpg"
+                    alt="Laptop Acer Gaming Nitro 5 Eagle AN515-57-71VV NH.QENSV.005.jpg"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>Laptop Acer Gaming Nitro 5 Eagle AN515-57-71VV NH.QENSV.005</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">23.990.000 ₫</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -131,15 +131,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-2.png"
-                    alt=""
+                    src="images/Asus/Laptop Asus Vivobook Flip 14 TP470EA EC346W.jpg"
+                    alt="Laptop Asus Vivobook Flip 14 TP470EA EC346W"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>Laptop Asus Vivobook Flip 14 TP470EA EC346W</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">13.990.000 ₫</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -152,15 +152,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-3.png"
-                    alt=""
+                    src="images/Mac/Apple Macbook Air M2 2022 8GB 256GB.png"
+                    alt="Apple Macbook Air M2 2022 8GB 256GB"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>Apple Macbook Air M2 2022 8GB 256GB</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">54.000.000 ₫</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -173,15 +173,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-4.png"
-                    alt=""
+                    src="images/MSI/Laptop Gaming MSI Bravo 15 B5DD 276VN.png"
+                    alt="Laptop Gaming MSI Bravo 15 B5DD 276VN"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>Laptop Gaming MSI Bravo 15 B5DD 276VN</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">$ 18.090.000 ₫</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -197,15 +197,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-5.png"
-                    alt=""
+                    src="images/Mac/iMac 24 2021 M1 7GPU 8GB 256GB.png"
+                    alt="iMac 24 2021 M1 7GPU 8GB 256GB"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>iMac 24 2021 M1 7GPU 8GB 256GB</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">23.000.000 đ</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -218,15 +218,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-6.png"
-                    alt=""
+                    src="images/Mac/iMac 24 2021 M1 7GPU 8GB 256GB.png"
+                    alt="iMac 24 2021 M1 7GPU 8GB 256GB"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>iMac 24 2021 M1 7GPU 8GB 256GB</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">23.000.000 đ</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -239,15 +239,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-7.png"
-                    alt=""
+                    src="images/Mac/iMac 24 2021 M1 7GPU 8GB 256GB.png"
+                    alt="iMac 24 2021 M1 7GPU 8GB 256GB"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>iMac 24 2021 M1 7GPU 8GB 256GB</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">23.000.000 đ</span>
                   </h4>
                 </div>
                 <div class="srch">
@@ -260,15 +260,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <a href="single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
-                    src="images/p-8.png"
-                    alt=""
+                    src="images/Mac/iMac 24 2021 M1 7GPU 8GB 256GB.png"
+                    alt="iMac 24 2021 M1 7GPU 8GB 256GB"
                 /></a>
                 <div class="product-bottom">
-                  <h3>Smart Watches</h3>
-                  <p>Explore Now</p>
+                  <h3>iMac 24 2021 M1 7GPU 8GB 256GB</h3>
+                  <p>Mua ngay</p>
                   <h4>
                     <a class="item_add" href="#"><i></i></a>
-                    <span class="item_price">$ 329</span>
+                    <span class="item_price">23.000.000 đ</span>
                   </h4>
                 </div>
                 <div class="srch">
