@@ -170,7 +170,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="col-md-3 product-left">
               <div class="product-main simpleCart_shelfItem">
-                <a href="single.php" class="mask"
+                <a href="view/single.php" class="mask"
                   ><img
                     class="img-responsive zoom-img"
                     src="images/MSI/Laptop Gaming MSI Bravo 15 B5DD 276VN.png"

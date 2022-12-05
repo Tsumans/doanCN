@@ -33,7 +33,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="account-top heading">
           <h2>Tài khoản</h2>
         </div>
-        <form action="login.php" method="post">
+        
+        <form action="xuly_login.php" method="post">
         <div class="account-main">
           <div class="col-md-6 account-left">
             <h3>Đăng nhập</h3>

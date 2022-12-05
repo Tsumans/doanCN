@@ -31,29 +31,30 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="register">
       <div class="container">
         <div class="register-top heading">
-          <h2>REGISTER</h2>
+          <h2>Đăng kí</h2>
         </div>
+        <form action="xuly_register.php" method="post">
         <div class="register-main">
           <div class="col-md-6 account-left">
-            <input placeholder="First name" type="text" tabindex="1" required />
-            <input placeholder="Last name" type="text" tabindex="2" required />
+            
+            <input placeholder="Họ Tên" type="text" tabindex="2" required />
             <input
-              placeholder="Email address"
+              placeholder="Email "
               type="text"
               tabindex="3"
               required
             />
-            <input placeholder="Mobile" type="text" tabindex="3" required />
+            <input placeholder="SĐT" type="text" tabindex="3" required />
             <ul>
               <li>
                 <label class="radio left"
                   ><input type="radio" name="radio" checked="" /><i></i
-                  >Male</label
+                  >Nam</label
                 >
               </li>
               <li>
                 <label class="radio"
-                  ><input type="radio" name="radio" /><i></i>Female</label
+                  ><input type="radio" name="radio" /><i></i>Nữ</label
                 >
               </li>
               <div class="clearfix"></div>
@@ -61,13 +62,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           </div>
           <div class="col-md-6 account-left">
             <input
-              placeholder="Password"
+              placeholder="Mật khẩu"
               type="password"
               tabindex="4"
               required
             />
             <input
-              placeholder="Retype password"
+              placeholder="Nhập lại mật khẩu"
               type="password"
               tabindex="4"
               required
@@ -78,6 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="address submit">
           <input type="submit" value="Submit" />
         </div>
+        </form>
       </div>
     </div>
     <!--register-end-->
