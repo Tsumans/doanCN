@@ -1,3 +1,5 @@
+<?php include './ketnoi.php'?>
+
 <?php
 if(isset($_POST["register"])){
     $user_name = $_POST["user_name"];

@@ -1,5 +1,7 @@
+<?php include './ketnoi.php'?>
+
 <?php
-$connect = mysqli_connect('localhost','dbname=doancn','root','','login');
+
 //option 2
 //$conn = new PDO('mysql:host=localhost;dbname=izlearn', $username, $password)
 
