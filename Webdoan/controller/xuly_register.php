@@ -1,4 +1,4 @@
-<?php include './ketnoi.php'?>
+<?php include './Database.php'?>
 
 <?php
 if(isset($_POST["register"])){

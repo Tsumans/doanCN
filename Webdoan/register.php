@@ -1,9 +1,3 @@
-<!--A Design by W3layouts 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html>
   <head>
@@ -37,14 +31,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="register-main">
           <div class="col-md-6 account-left">
             
-            <input placeholder="Họ Tên" type="text" tabindex="2" required />
-            <input
-              placeholder="Email "
-              type="text"
-              tabindex="3"
-              required
-            />
-            <input placeholder="SĐT" type="text" tabindex="3" required />
+            <input placeholder="Họ Tên" type="text" tabindex="2" required="" />
+            <input placeholder="Email "type="text"tabindex="3"required="" />
+            <input placeholder="SĐT" type="text" tabindex="3" required="" />
             <ul>
               <li>
                 <label class="radio left"
